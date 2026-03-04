@@ -21,3 +21,13 @@ This project demonstrates concepts from **Natural Language Processing (NLP), Dat
 ---
 
 ## 🧠 Project Architecture
+
+Chat File (.txt)
+↓
+preprocessor.py → Text parsing & structuring
+↓
+DataFrame
+↓
+helper.py → Data analysis functions
+↓
+app.py → Streamlit web dashboard
